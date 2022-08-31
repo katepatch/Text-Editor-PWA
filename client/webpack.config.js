@@ -42,7 +42,7 @@ module.exports = () => {
           {
             src: path.resolve('src/images/logo.png'),
             sizes: [96, 128, 192, 256, 384, 512],
-            destination: path.join('', ''),//need to figure this one out.
+            destination: path.join('assests', 'icons'),//need to figure this one out.
           },
         ],
       })
