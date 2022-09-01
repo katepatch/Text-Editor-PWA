@@ -45,4 +45,5 @@ THEN I should have proper build scripts for a webpack application
 ## Links
 
 You can find the code on my [Github](https://github.com/katepatch/Text-Editor-PWA)</br>
-You can find this deployed on [Heroku](https://jatebykate.herokuapp.com/)
+You can find this deployed on [Heroku](https://jatebykate.herokuapp.com/)</br>
+Or email me at kate.epatch@gmail.com
