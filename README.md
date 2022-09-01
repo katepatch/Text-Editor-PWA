@@ -2,7 +2,7 @@
 
  Module 19 Challenge
 
- ## Table Of Contents
+## Table Of Contents
 
  -[User Story](#user-story)</br>
  -[Acceptance Criteria](#acceptance-criteria)</br>
@@ -41,6 +41,7 @@ WHEN I register a service worker</br>
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets</br>
 WHEN I deploy to Heroku</br>
 THEN I should have proper build scripts for a webpack application
+
 ## Links
 
 You can find the code on my [Github](https://github.com/katepatch/Text-Editor-PWA)</br>
