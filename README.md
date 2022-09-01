@@ -56,4 +56,4 @@ I am having trouble with the install button and getting the logo to load.  I am 
 
 ## Screenshot
 
-![Screenshot]('/JATE.png')
+![screenshot](/JATE.png)
