@@ -7,6 +7,7 @@
  -[User Story](#user-story)</br>
  -[Acceptance Criteria](#acceptance-criteria)</br>
  -[Links](#links)
+ -[Notes](#notes)
 
 ## User Story
 
@@ -46,4 +47,8 @@ THEN I should have proper build scripts for a webpack application
 
 You can find the code on my [Github](https://github.com/katepatch/Text-Editor-PWA)</br>
 You can find this deployed on [Heroku](https://jatebykate.herokuapp.com/)</br>
-Or email me at kate.epatch@gmail.com
+You can email me at kate.epatch@gmail.com
+
+## Notes
+
+I am having trouble with the install button and getting the logo to load.  I am working on a Mac and could just be oblivious to where the app is installing for use offline but I am going to continue working on it.
