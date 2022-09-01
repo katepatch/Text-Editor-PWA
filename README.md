@@ -8,6 +8,7 @@
  -[Acceptance Criteria](#acceptance-criteria)</br>
  -[Links](#links)
  -[Notes](#notes)
+ -[Screenshot](#screenshot)
 
 ## User Story
 
@@ -52,3 +53,7 @@ You can email me at kate.epatch@gmail.com
 ## Notes
 
 I am having trouble with the install button and getting the logo to load.  I am working on a Mac and could just be oblivious to where the app is installing for use offline but I am going to continue working on it.
+
+## Screenshot
+
+![Screenshot]('/JATE.png')
