@@ -52,6 +52,7 @@ Then run `npm run start` in the root directory to start the application
 ## Preview
 
 You can find this deployed on [Heroku](https://jatebykate.herokuapp.com/)</br>
+
 ![screenshot](/JATE.png)
 
 ## Questions
