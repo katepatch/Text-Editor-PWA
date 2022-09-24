@@ -1,14 +1,14 @@
 # Text Editor PWA
 
- Module 19 Challenge
+This project is a single page text editor that runs in the browser.  
 
 ## Table Of Contents
 
- -[User Story](#user-story)</br>
- -[Acceptance Criteria](#acceptance-criteria)</br>
- -[Links](#links)
- -[Notes](#notes)
- -[Screenshot](#screenshot)
+ [User Story](#user-story)</br>
+ [Project Criteria](#project-criteria)</br>
+ [Installation](#installation)
+ [Preview](#preview)</br>
+ [Questions](#questions)</br>
 
 ## User Story
 
@@ -16,7 +16,7 @@ AS A developer</br>
 I WANT to create notes or code snippets with or without an internet connection</br>
 SO THAT I can reliably retrieve them for later use
 
-## Acceptance Criteria
+## Project Criteria
 
 GIVEN a text editor web application</br>
 WHEN I open my application in my editor</br>
@@ -44,16 +44,17 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku</br>
 THEN I should have proper build scripts for a webpack application
 
-## Links
+## Installation
+
+To install this clone the repository and run `npm i` to install packages</br>
+Then run `npm run start` in the root directory to start the application
+
+## Preview
+
+You can find this deployed on [Heroku](https://jatebykate.herokuapp.com/)</br>
+![screenshot](/JATE.png)
+
+## Questions
 
 You can find the code on my [Github](https://github.com/katepatch/Text-Editor-PWA)</br>
-You can find this deployed on [Heroku](https://jatebykate.herokuapp.com/)</br>
 You can email me at kate.epatch@gmail.com
-
-## Notes
-
-I am having trouble with the install button and getting the logo to load.  I am working on a Mac and could just be oblivious to where the app is installing for use offline but I am going to continue working on it.
-
-## Screenshot
-
-![screenshot](/JATE.png)
